@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.poi">
+    <module_version install_time="1350895542985" last="true" origin="installer" specification_version="1.0">
+        <file crc="164559632" name="config/Modules/org-nsn-poi.xml"/>
+        <file crc="2050839146" name="modules/ext/dom4j-1.6.1.jar"/>
+        <file crc="2205280934" name="modules/org-nsn-poi.jar"/>
+    </module_version>
+</module>

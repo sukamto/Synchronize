@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_nsn_gui">
+                <file name="Error_Log" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.nsn.gui.Error_LogTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.nsn.gui//Error_Log//EN"/>
+                </file>
+                <file name="Event_Log" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.nsn.gui.Event_LogTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.nsn.gui//Event_Log//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="nsn">
+                    <folder name="gui">
+                        <file name="Error_LogTopComponent">
+                            <!--org.nsn.gui.Error_LogTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//org_nsn_gui/Error_Log.instance"/>
+                        </file>
+                        <file name="Event_LogTopComponent">
+                            <!--org.nsn.gui.Event_LogTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//org_nsn_gui/Event_Log.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_nsn_gui">
+                <file name="Error_Log.instance">
+                    <!--org.nsn.gui.Error_LogTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.nsn.gui.Error_LogTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.nsn.gui.Error_LogTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+                <file name="Event_Log.instance">
+                    <!--org.nsn.gui.Event_LogTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.nsn.gui.Event_LogTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.nsn.gui.Event_LogTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-nsn-gui-Error_LogTopComponent.shadow">
+                <!--org.nsn.gui.Error_LogTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-nsn-gui-Error_LogTopComponent.instance"/>
+            </file>
+            <file name="org-nsn-gui-Event_LogTopComponent.shadow">
+                <!--org.nsn.gui.Event_LogTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-nsn-gui-Event_LogTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="Error_LogTopComponent.settings">
+                <!--org.nsn.gui.Error_LogTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.nsn.gui.Error_LogTopComponent"/>
+</settings>
+]]></file>
+            <file name="Event_LogTopComponent.settings">
+                <!--org.nsn.gui.Event_LogTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.nsn.gui.Event_LogTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="Error_LogTopComponent.wstcref">
+                    <!--org.nsn.gui.Error_LogTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="Error_LogTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                <file name="Event_LogTopComponent.wstcref">
+                    <!--org.nsn.gui.Event_LogTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="Event_LogTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-nsn-gui-Error_LogTopComponent.instance">
+                <!--org.nsn.gui.Error_LogTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.nsn.gui.Error_LogTopComponent"/>
+                <attr name="preferredID" stringvalue="Error_LogTopComponent"/>
+                <attr
+                    bundlevalue="org.nsn.gui.Bundle#CTL_Error_LogAction" name="displayName"/>
+            </file>
+            <file name="org-nsn-gui-Event_LogTopComponent.instance">
+                <!--org.nsn.gui.Event_LogTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.nsn.gui.Event_LogTopComponent"/>
+                <attr name="preferredID" stringvalue="Event_LogTopComponent"/>
+                <attr
+                    bundlevalue="org.nsn.gui.Bundle#CTL_Event_LogAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

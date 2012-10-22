@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.filemethodsservice">
+    <module_version install_time="1350895539268" last="true" origin="installer" specification_version="1.0">
+        <file crc="1081447657" name="config/Modules/org-nsn-filemethodsservice.xml"/>
+        <file crc="1840085502" name="modules/org-nsn-filemethodsservice.jar"/>
+    </module_version>
+</module>

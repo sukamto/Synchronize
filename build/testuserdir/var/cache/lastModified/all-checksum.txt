@@ -1,0 +1,7 @@
+C:\Program Files\NetBeans 7.1.2\platform=1348743084738
+D:\Programming\Netbeans Apps\Synix_updator\Synchronize\build\cluster=1350893145646
+C:\Program Files\NetBeans 7.1.2\platform=1348743084738
+D:\Programming\Netbeans Apps\Synix_updator\Synchronize\build\testuserdir=1350893145646
+crc=7
+locale=en_ZA
+branding=synchronize

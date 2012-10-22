@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nsn.databaseserviceprovider
+OpenIDE-Module-Localizing-Bundle: org/nsn/databaseserviceprovider/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

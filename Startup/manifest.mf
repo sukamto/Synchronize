@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nsn.startup
+OpenIDE-Module-Install: org/nsn/startup/Installer.class
+OpenIDE-Module-Localizing-Bundle: org/nsn/startup/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

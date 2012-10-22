@@ -1,0 +1,3 @@
+||:org.nsn.globalcontextservice.GlobalInterface
+java.lang.Object
+org.nsn.globalcontextservice.GlobalInterface

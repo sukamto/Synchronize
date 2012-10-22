@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.ericssonserviceprovider">
+    <module_version install_time="1350895537507" last="true" origin="installer" specification_version="1.0">
+        <file crc="2929896857" name="config/Modules/org-nsn-ericssonserviceprovider.xml"/>
+        <file crc="264372190" name="modules/org-nsn-ericssonserviceprovider.jar"/>
+    </module_version>
+</module>

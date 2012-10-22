@@ -1,0 +1,8 @@
+||:org.nsn.globalcontextserviceprovider.GlobalContext
+java.lang.String
+java.lang.Object
+java.util.Iterator
+java.util.ArrayList
+java.util.List
+org.nsn.globalcontextserviceprovider.GlobalContext
+org.nsn.globalcontextservice.GlobalInterface

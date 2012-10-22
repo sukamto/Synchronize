@@ -1,0 +1,10 @@
+||:org.databaseservice.IndexInterface
+java.lang.Object
+org.databaseservice.IndexInterface
+||:org.databaseservice.Database
+java.lang.Object
+org.openide.util.Lookup
+org.databaseservice.Database
+||:org.databaseservice.Import
+java.lang.Object
+org.databaseservice.Import

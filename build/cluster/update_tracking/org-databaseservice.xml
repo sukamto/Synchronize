@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.databaseservice">
+    <module_version install_time="1350895536047" last="true" origin="installer" specification_version="1.0">
+        <file crc="132081695" name="config/Modules/org-databaseservice.xml"/>
+        <file crc="2071370246" name="modules/org-databaseservice.jar"/>
+    </module_version>
+</module>

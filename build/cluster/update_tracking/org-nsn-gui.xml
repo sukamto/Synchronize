@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.gui">
+    <module_version install_time="1350895542600" last="true" origin="installer" specification_version="1.0">
+        <file crc="2950400744" name="config/Modules/org-nsn-gui.xml"/>
+        <file crc="1600707441" name="modules/org-nsn-gui.jar"/>
+    </module_version>
+</module>

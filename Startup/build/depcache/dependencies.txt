@@ -1,0 +1,13 @@
+||:org.nsn.startup.Installer
+java.lang.StringBuilder
+org.openide.util.Lookup
+org.nsn.globalcontextservice.GlobalInterface
+org.nsn.startup.Installer
+java.util.Collection
+org.openide.modules.ModuleInstall
+java.util.Iterator
+java.io.PrintStream
+java.lang.System
+java.sql.Connection
+org.databaseservice.Database
+java.sql.SQLException

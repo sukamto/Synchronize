@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.excelserviceprovider">
+    <module_version install_time="1350895543299" last="true" origin="installer" specification_version="1.0">
+        <file crc="1215633218" name="config/Modules/org-nsn-excelserviceprovider.xml"/>
+        <file crc="1554098903" name="modules/org-nsn-excelserviceprovider.jar"/>
+    </module_version>
+</module>

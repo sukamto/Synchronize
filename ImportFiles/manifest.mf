@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.nsn.importfiles
+OpenIDE-Module-Layer: org/nsn/importfiles/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/nsn/importfiles/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

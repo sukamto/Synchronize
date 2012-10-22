@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.globalcontextserviceprovider">
+    <module_version install_time="1350895540049" last="true" origin="installer" specification_version="1.0">
+        <file crc="748197458" name="config/Modules/org-nsn-globalcontextserviceprovider.xml"/>
+        <file crc="340985875" name="modules/org-nsn-globalcontextserviceprovider.jar"/>
+    </module_version>
+</module>

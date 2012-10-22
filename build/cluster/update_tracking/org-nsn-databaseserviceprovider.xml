@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.databaseserviceprovider">
+    <module_version install_time="1350895543977" last="true" origin="installer" specification_version="1.0">
+        <file crc="3861516116" name="config/Modules/org-nsn-databaseserviceprovider.xml"/>
+        <file crc="2352747378" name="modules/org-nsn-databaseserviceprovider.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.nsn.dom4j">
+    <module_version install_time="1350895536954" last="true" origin="installer" specification_version="1.0">
+        <file crc="4184211921" name="config/Modules/org-nsn-dom4j.xml"/>
+        <file crc="109090543" name="modules/ext/poi-3.8-beta3-20110606.jar"/>
+        <file crc="977321864" name="modules/ext/poi-ooxml-3.8-beta3-20110606.jar"/>
+        <file crc="3346102925" name="modules/ext/poi-ooxml-schemas-3.8-beta3-20110606.jar"/>
+        <file crc="390008783" name="modules/ext/poi-scratchpad-3.8-beta3-20110606.jar"/>
+        <file crc="3116060521" name="modules/ext/xmlbeans-2.3.0.jar"/>
+        <file crc="2190228796" name="modules/org-nsn-dom4j.jar"/>
+    </module_version>
+</module>
