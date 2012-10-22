@@ -14,11 +14,6 @@ import org.nsn.excelservice.ExcelServiceInterface;
 @org.openide.util.lookup.ServiceProvider(service = ExcelServiceInterface.class)
 public class Excel implements ExcelServiceInterface {
 
-//    private int SHEET_TO_PROCESS = 0;
-//    private int DATE_COL_INDEX = 0;
-//    private String DELIMITER = "<~>";
-//    private static int NUMERIC = 0;
-//    private static int FORMULA = 2;
     private static BufferedWriter writer = null;
 //    private static short headingCount;
 //    private static Sheet sheet;
